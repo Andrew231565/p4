@@ -1,0 +1,56 @@
+header img{width:100%; height:170px; margin-bottom: 20px;
+}
+body{margin-top: 0; margin-left: 0; margin-right: 0;}
+nav{display: flex;
+justify-content: space-around;}
+nav a{text-decoration: none;
+background-color:#828282 ;
+color: azure;
+font-size: 30px;
+padding: 15px;
+border-radius: 25px;
+margin: 30px;
+font-weight: 900;}
+
+h1{position: absolute;top: 7px;left: 500px;
+font-size: 75px;
+font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;}
+
+footer{background-color: gray;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: 900;
+    color: aliceblue;}
+    section{display: flex;
+    justify-content: space-evenly;}
+
+.tel{font-size:25px ; font-weight: 900;}
+.inst{font-size:25px ; font-weight: 900;}
+.inst::before{content: url(https://i.postimg.cc/26mkfb3s/free-icon-font-instagram-6422200-3.png);
+margin-left: 10px;}
+.tel::before{content: url(https://i.postimg.cc/CxQ3W3GC/free-icon-font-whatsapp-6422213-2.png);
+    margin-left: 20px;}
+
+div{width: 200px;height: 380px;
+     text-align: center; 
+     font-size: 25px;
+      font-weight: 700; 
+      margin-bottom:400px ;
+     border: 3px solid black;}
+main{padding: 20px;padding: 10px;}
+button{width: 100px; border-radius: 30px;
+padding: 10px;background-color: #828282;color: white;font-weight: 700;}
+span:hover{color: #CEAD6D;}
+nav a:hover{color: #CEAD6D;}
+button:hover{background-color: #CEAD6D;
+    box-shadow: 3px 3px 3px #CEAD6D;}
+section{display: flex;
+    justify-content: space-around;align-items: center;}
+
+   
+    .car1{ position: relative; bottom: 200px; left: 570px; width: 300px; height: 300px;}
+     
+    
+    
+
+
